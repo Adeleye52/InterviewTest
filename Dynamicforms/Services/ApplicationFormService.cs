@@ -81,9 +81,5 @@ public class ApplicationFormService: IApplicationFormService
             Message = "Request Updated Successfully"
         };
     }
-    public async Task<bool> ValidateDetails(ProgramDetail programDetail, CreateApplicationForm model)
-    {
-        if(programDetail.)
-    }
 
 }
